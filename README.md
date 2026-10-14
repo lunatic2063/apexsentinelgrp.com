@@ -3,9 +3,7 @@
 Static website for Apex Sentinel Group LLC. Plain HTML and CSS, no build step.
 
 ## Before going live (after SAM.gov activation)
-Search the files for `class="todo"` and replace every placeholder:
-- `[UEI]` and `[CAGE]` in index.html, contact.html, and the footer of every page
-- `[Business Phone]` in contact.html and the footer of every page
+All placeholders are filled in (UEI KWA3GQY19KP7, CAGE 25YB0, phone 260-206-3214).
 - Optional: add a revised capability statement PDF to assets/ and link it
 
 ## Deploy on GitHub Pages

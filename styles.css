@@ -134,10 +134,6 @@ td:first-child{font-weight:600;white-space:nowrap}
 .contact-card dt:first-child{margin-top:0}
 .contact-card dd{margin:0;font-weight:600;font-size:1.1rem}
 
-/* Placeholders to replace before launch */
-.todo{background:#FFF1B8;color:#5A4500;padding:0 .3rem;font-weight:600}
-.record .todo{background:#FFE58A;color:#3D2F00}
-
 /* Footer */
 .site-footer{background:var(--ink);color:#B9C5D1;padding:3rem 0 2rem;font-size:.95rem}
 .site-footer a{color:#fff}
